@@ -7,7 +7,7 @@ These are recommended best practices you should start with to begin hardening yo
 The TL;DR is that you should consider:
 
 * Having a private security reporting pipeline with a designated handler and public vulnerability disclosure process
-* Following best practices for development, build pipelines, etc.
+* Following best practices for development, building pipelines, etc.
 * Keeping up to date on security practices and vulnerabilities (CVEs, necessary patches, etc)
 * Maintaining up-to-date knowledgebases that keep track of security efforts, access privileges, etc.
 * Creating processes for handling disclosures and security issues internally
